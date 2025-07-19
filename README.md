@@ -4,9 +4,13 @@ AI Chatbot for Customer Service Assistants
 GRADE: 19.25/20
 
 Alice Viegas, 20240572
+
 Bernardo Faria, 20240579
+
 Dinis Pinto, 20240612 
+
 Daan van Holten, 20240681 
+
 Philippe Dutranoit, 20240518
 
 
